@@ -1,3 +1,5 @@
+-- This query collects, transforms and provides calculations for marketing 
+-- campaign, joining tables from different tables 
 -- this function decodes URL-encoded string 
 CREATE OR REPLACE FUNCTION pg_temp.decode_url_part(p varchar) RETURNS varchar AS $$
 SELECT convert_from(CAST(E'\\x' || string_agg(CASE WHEN length(r.m[1]) = 1 THEN encode(convert_to(r.m[1], 'SQL_ASCII'), 'hex') ELSE substring(r.m[1] from 2 for 2) END, '') AS bytea), 'UTF8')

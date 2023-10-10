@@ -1,0 +1,6 @@
+BigQUery Engagement correlation
+Uses events data to group users by engagement counts and defines conversion to purchase per group
+https://console.cloud.google.com/bigquery?sq=146701015857:d2df940aecb24fe798e463643e3cfbc6
+BigQuery Conversion rates by traffic channels
+Transforms events data to calculate conversion rates to different events
+https://console.cloud.google.com/bigquery?sq=146701015857:fbcaa2e7d85f432bb61fe47857eb3e42

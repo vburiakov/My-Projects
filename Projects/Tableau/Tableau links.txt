@@ -1,0 +1,7 @@
+User activity analysis
+https://public.tableau.com/views/UserActivity_16959239012490/UserActivityAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
+Revenue analysis
+https://public.tableau.com/views/FinalProject_16965057415050/RevenueAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Funnel analysis
+https://public.tableau.com/views/FunnelAnalysis_16959244704990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
